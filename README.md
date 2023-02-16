@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DrSolo
 - 👀 I’m interested in security & ethical hacking
-- 🌱 I’m currently learning CompTIA A+ and CompTIA Security+
+- 🌱 E-mail me if you're interested in teaming on TryHackMe
 - 💞️ I’m looking to collaborate on learning more programming (Python)
 - 📫 How to reach me: alex@drsolo.net
 
